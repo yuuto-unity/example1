@@ -22,7 +22,7 @@
 | 2 | C# | 2000.01.01 |
 | 3 | Visual Studio | 1997.11.19 |
 
->HTM(MarkUp)L  Table
+>HTM(MarkUp)L Table
 <table>
     <tr>
         <td>ID</td>
